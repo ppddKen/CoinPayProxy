@@ -301,7 +301,7 @@ Token Sweeping
 
  ### 注意事项
 
-dll文件是[TronNet - Panda69Ken](https://github.com/Panda69Ken/TronNet)的发布版DLL，可自行下载补发替换
+dll文件是[TronNet - ppddKen](https://github.com/ppddKen/TronNet)的发布版DLL，可自行下载补发替换
 
 [MediatR](https://github.com/LuckyPennySoftware/MediatR)使用了有限制版本，可使用低版本代替
 
